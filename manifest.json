@@ -1,0 +1,13 @@
+{
+	"id": "obsidian-beeminder-sync",
+	"name": "Beeminder Sync",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Sync Datacore queries with Beeminder goals",
+	"author": "Your Name",
+	"authorUrl": "https://github.com/yourusername",
+	"isDesktopOnly": false,
+	"dependencies": {
+		"uuid": "^9.0.0"
+	}
+}

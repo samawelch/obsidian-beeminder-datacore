@@ -1,0 +1,17 @@
+{
+  "apiKey": "FVtuYFEts1ms9V_1qcQ2",
+  "queries": [
+    {
+      "id": "505d5846-174a-4b83-ab42-96035381f4fd",
+      "name": "New Query",
+      "query": "@page and path(\"Zets\")",
+      "beeminderGoal": "zettelkasten",
+      "enabled": true,
+      "lastSyncTime": 1742150057697,
+      "lastCount": 3
+    }
+  ],
+  "autoSync": true,
+  "syncIntervalMinutes": 30,
+  "lastPluginRunTime": null
+}
